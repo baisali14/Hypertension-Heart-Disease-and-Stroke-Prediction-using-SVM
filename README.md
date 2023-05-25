@@ -1,4 +1,4 @@
-# Hypertension-Heart-Disease-and-Stroke-Prediction
+# Hypertension-Heart-Disease-and-Stroke-Prediction-using-SVM
 
 Kaggle Notebook Link : https://www.kaggle.com/code/bai14mou/hypertension-heart-disease-and-stroke-prediction  <br>
 Live Webapp Link : https://baisali14-hypertension-heart-disease-and-stroke-p-webapp-ctk8ss.streamlit.app/     <br>
