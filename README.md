@@ -2,6 +2,7 @@
 
 Kaggle Notebook Link : https://www.kaggle.com/code/bai14mou/hypertension-heart-disease-and-stroke-prediction  <br>
 Live Webapp Link : https://baisali14-hypertension-heart-disease-and-stroke-p-webapp-ctk8ss.streamlit.app/     <br>
+Stroke Prediction Dataset link : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset <br>
 
 Sample values to try with : 19723  35.0  82.99  30.6    <br>
 Resultant output with these values : No hypertension, No heart disease, No stroke
@@ -16,11 +17,11 @@ The dataset being used to make the predictive model is the Stroke Prediction Dat
 
 # Technologies Used
 This Machine Learning project was implemented using Python Programming Language. The different libraries being used are: <br>
-      * Scikit-learn  <br>
-      * Pandas <br>
-      * Numpy <br>
-      * Pickle <br>
-      * Seaborn <br>
+      * Scikit-learn  
+      * Pandas 
+      * Numpy 
+      * Pickle 
+      * Seaborn 
      
 # Data Collection and Analysis
 The dataset used in this project is the Stroke Prediction Dataset. The dataset has 12 attributes. They are: <br>
@@ -36,9 +37,7 @@ The dataset used in this project is the Stroke Prediction Dataset. The dataset h
 10) bmi: body mass index <br>
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown" <br>
 12) stroke: 1 if the patient had a stroke or 0 if not <br>
-<br>
-Dataset link : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
-<br>
+
 The dataset is further understood and analysed using different satistical measures. The data is even visualised using seaborn library. This library represents the data in bar graphs and hence, we recieve a visual representation of the data.
 
 # Data Preprocessing
