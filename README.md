@@ -1,9 +1,9 @@
 # Hypertension-Heart-Disease-and-Stroke-Prediction-using-SVM
 
-Kaggle Notebook Link: https://www.kaggle.com/code/bai14mou/hypertension-heart-disease-and-stroke-prediction
-Live Webapp Link: https://baisali14-hypertension-heart-disease-and-stroke-p-webapp-ctk8ss.streamlit.app/
+Kaggle Notebook Link: https://www.kaggle.com/code/bai14mou/hypertension-heart-disease-and-stroke-prediction  <br>
+Live Webapp Link: https://baisali14-hypertension-heart-disease-and-stroke-p-webapp-ctk8ss.streamlit.app/     <br>
 
-Sample values to try with : 19723  35.0  82.99  30.6
+Sample values to try with : 19723  35.0  82.99  30.6    <br>
 Resultant output: No hypertension, No heart disease, No stroke
 
 # Introduction
