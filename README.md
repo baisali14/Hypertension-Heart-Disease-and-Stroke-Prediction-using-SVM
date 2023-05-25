@@ -2,7 +2,7 @@
 
 Kaggle Notebook link: https://www.kaggle.com/code/bai14mou/hypertension-heart-disease-and-stroke-prediction
 
-#Introduction
+# Introduction
 This Machine Learning project is aimed at predicting three different factors all at the same time depending on different Diagnostic aspects. The factors are as follows:
 (a) A person has hypertension or not.
 (b) A person has heart disease or not.
