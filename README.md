@@ -1,6 +1,10 @@
 # Hypertension-Heart-Disease-and-Stroke-Prediction-using-SVM
 
-Kaggle Notebook link: https://www.kaggle.com/code/bai14mou/hypertension-heart-disease-and-stroke-prediction
+Kaggle Notebook Link: https://www.kaggle.com/code/bai14mou/hypertension-heart-disease-and-stroke-prediction
+Live Webapp Link: https://baisali14-hypertension-heart-disease-and-stroke-p-webapp-ctk8ss.streamlit.app/
+
+Sample values to try with : 19723  35.0  82.99  30.6
+Resultant output: No hypertension, No heart disease, No stroke
 
 # Introduction
 This Machine Learning project is aimed at predicting three different factors all at the same time depending on different Diagnostic aspects. The factors are as follows:<br>
