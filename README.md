@@ -2,7 +2,7 @@
 
 Kaggle Notebook Link : https://www.kaggle.com/code/bai14mou/hypertension-heart-disease-and-stroke-prediction  <br>
 Live Webapp Link : https://baisali14-hypertension-heart-disease-and-stroke-p-webapp-ctk8ss.streamlit.app/     <br>
-Stroke Prediction Dataset link : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset <br>
+Stroke Prediction Dataset link : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset       <br>
 
 Sample values to try with : 19723  35.0  82.99  30.6    <br>
 Resultant output with these values : No hypertension, No heart disease, No stroke
