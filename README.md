@@ -17,11 +17,11 @@ The dataset being used to make the predictive model is the Stroke Prediction Dat
 
 # Technologies Used
 This Machine Learning project was implemented using Python Programming Language. The different libraries being used are: <br>
-      * Scikit-learn  
-      * Pandas 
-      * Numpy 
-      * Pickle 
-      * Seaborn 
+* Scikit-learn  
+* Pandas 
+* Numpy 
+* Pickle 
+* Seaborn 
      
 # Data Collection and Analysis
 The dataset used in this project is the Stroke Prediction Dataset. The dataset has 12 attributes. They are: <br>
