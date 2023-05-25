@@ -5,11 +5,11 @@ from streamlit_option_menu import option_menu
 
 
 #loading the saved models
-hypertension_model = pickle.load(open('C:/Users/baisa/OneDrive/Desktop/saved models/hypertension_model.sav','rb'))
+hypertension_model = pickle.load(open('hypertension_model.sav','rb'))
 
-heart_disease_model = pickle.load(open('C:/Users/baisa/OneDrive/Desktop/saved models/heart_disease_model.sav','rb'))
+heart_disease_model = pickle.load(open('heart_disease_model.sav','rb'))
 
-stroke_model = pickle.load(open('C:/Users/baisa/OneDrive/Desktop/saved models/stroke_model.sav','rb'))
+stroke_model = pickle.load(open('stroke_model.sav','rb'))
 
 # creating a function for hypertension prediction
 def hypertension_prediction(input_data):
