@@ -39,6 +39,20 @@ The dataset used in this project is the Stroke Prediction Dataset. The dataset h
 <br>
 Dataset link : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 <br>
+The dataset is further understood and analysed using different satistical measures. The data is even visualised using seaborn library. This library represents the data in bar graphs and hence, we recieve a visual representation of the data.
 
+# Data Preprocessing
+The data is checked for null values. The dataset had some null values. These null values were replaced with the mean value of the particular attribute.
+<br>
+The dataset is then split into input features (X) and target variables (Y_hypertension, Y_heartdisease, Y_stroke). The input features are standardized using Standarad Scaler.
 
-      
+# Machine Learning Model
+Support Vector Machine (SVM) is used to build our machine learning model. SVM is a supervised learning algorithm that can be used for both classification and regression tasks. SVM works by finding the best hyperplane that separates the data into different classes. <br>
+
+The preprocessed dataset is further split into training and testing sets. The trained set is used to train the SVM model and the model's performance is evaluated on the testing set using accuracy as the evaluation metric.
+
+# Results
+After training the SVM model on the preprocessed dataset, an accuracy of 90% is achieved on the testing set for hypertension prediction, an accuracy of 94% is achieved on the testing set for heart disease prediction and  an accuracy of 95% is achieved on the testing set for stroke prediction. 
+
+# Conclusion
+In this project, we used SVM to predict whether a person has hypertension, heart disease and stroke depending on certain diagnostic aspects. We achieved an accuracy of 90% on the testing set for  hypertension prediction, an accuracy of 94% on the testing set for heart disease prediction and  an accuracy of 95% on the testing set for stroke prediction. The zzut there is still room for improvement. We can use other machine learning algorithms like Decision Tree, Logistic Regression and many more to improve the accuracy of the model.
