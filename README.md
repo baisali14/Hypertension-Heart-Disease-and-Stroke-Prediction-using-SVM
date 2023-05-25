@@ -22,3 +22,4 @@ The dataset being used to make the predictive model is the Stroke Prediction Dat
 12) stroke: 1 if the patient had a stroke or 0 if not <br>
 
 # Technologies Used
+
